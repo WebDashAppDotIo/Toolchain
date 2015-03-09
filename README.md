@@ -2,6 +2,10 @@
 
 Toolchain, builders, APIs, generators, 3rd-party services, etc. 
 
+## Fondamentals
+
+- [Web Fundamentals: Best practices for modern web development](https://developers.google.com/web/fundamentals/)
+
 
 ## Build & Continuous Integration 
 
