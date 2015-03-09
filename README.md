@@ -2,10 +2,13 @@
 
 Toolchain, builders, APIs, generators, 3rd-party services, etc. 
 
-## Fondamentals
+## Web Fondamentals
 
 - [Web Fundamentals: Best practices for modern web development](https://developers.google.com/web/fundamentals/)
 
+## Algorithm Fondamentals
+
+- [Big-O complexities of common algorithms used in Computer Science](http://bigocheatsheet.com/)
 
 ## Build & Continuous Integration 
 
