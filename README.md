@@ -33,7 +33,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ## Showcase
 
 - [Scenery](https://www.getscenery.com/)
-- 
+
 ## Mobile testing
 
 - [Test de compatibilité mobile (Google)](https://www.google.com/webmasters/tools/mobile-friendly/?url=i-like-it.fr)
