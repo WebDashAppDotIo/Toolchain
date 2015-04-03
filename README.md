@@ -37,3 +37,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ## Mobile testing
 
 - [Test de compatibilité mobile (Google)](https://www.google.com/webmasters/tools/mobile-friendly/?url=i-like-it.fr)
+
+## Free-for-dev
+
+- [A list of software and SaaS, PaaS etc offerings that have free tiers for devs](https://github.com/ripienaar/free-for-dev) 
