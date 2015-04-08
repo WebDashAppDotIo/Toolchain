@@ -44,4 +44,5 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 ## Free medias
 
-- [videos.pexels.com](https://videos.pexels.com)
+- [videos](https://videos.pexels.com) (CC-0)
+- [images](http://www.pexels.com/)
