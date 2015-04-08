@@ -41,3 +41,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ## Free-for-dev
 
 - [A list of software and SaaS, PaaS etc offerings that have free tiers for devs](https://github.com/ripienaar/free-for-dev) 
+
+## Free medias
+
+- [videos.pexels.com](https://videos.pexels.com)
