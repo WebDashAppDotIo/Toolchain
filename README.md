@@ -34,6 +34,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 - [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need?](https://css-tricks.com/favicon-quiz/)
 
+## Data manipulations
+
+- [Tabula](http://tabula.technology/): Extract tables from PDF
+
 ## Showcase
 
 - [Scenery](https://www.getscenery.com/)
