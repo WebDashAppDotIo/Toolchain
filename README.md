@@ -43,6 +43,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ## Data manipulations
 
 - [Tabula](http://tabula.technology/): Extract tables from PDF
+- [Stellar](https://github.com/fastmonkeys/stellar) Database snapshot and restore
 
 ## Showcase
 
