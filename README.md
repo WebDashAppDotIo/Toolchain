@@ -19,7 +19,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
  
 ## Quick Templating
 
-- [html5up.net/](http://html5up.net/) - HTML5 site templates, fully RWD, under Creative Commons license
+- [html5up.net](http://html5up.net/) - HTML5 site templates, fully RWD, under Creative Commons license
 
 ## Web Fondamentals
 
