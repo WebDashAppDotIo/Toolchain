@@ -21,6 +21,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [html5up.net](http://html5up.net/) - HTML5 site templates, fully RWD, under Creative Commons license
 
+## API'ing
+
+- [Postman](https://www.getpostman.com/) Build, test & document your APIs
+
 ## Quick Previewing
 
 - [rawgit.com](https://rawgit.com)
