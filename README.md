@@ -29,25 +29,21 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [html5up.net](http://html5up.net/) - HTML5 site templates, fully RWD, under Creative Commons license
 
-## Quick Previewing
+### Quick Previewing
 
 - [rawgit.com](https://rawgit.com)
 
-## Free medias
+### Free medias
 
 - [videos](https://videos.pexels.com) (CC-0)
 - [images](http://www.pexels.com/)
 - [images] (http://pixabay.com)
 
-## Science of Favicons
+### Science of Favicons
 
 - [realfavicongenerator.net](http://realfavicongenerator.net)
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 - [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need?](https://css-tricks.com/favicon-quiz/)
-
-## API'ing
-
-- [Postman](https://www.getpostman.com/) Build, test & document your APIs
 
 ## Dev'looping
 
@@ -59,10 +55,11 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [Big-O complexities of common algorithms used in Computer Science](http://bigocheatsheet.com/)
 
-### API As A Service
+### API'ing
 
 - [CachetHQ.io](https://github.com/cachethq/Cachet) - An open source status page system written in PHP
 - [Pusher.com](https://pusher.com) server-side messages pushing to subscribing web clients
+- [Postman](https://www.getpostman.com/) Build, test & document your APIs
 
 ### Build & Continuous Integration 
 
@@ -75,9 +72,11 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 - [Tabula](http://tabula.technology/): Extract tables from PDF
 - [Stellar](https://github.com/fastmonkeys/stellar) Database snapshot and restore
 
-## Data backuping
+### Data backuping
 
 - [PHP Backup Utility](http://phpbu.de)
+
+## Demo time
 
 ### Mobile testing
 
@@ -87,9 +86,9 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [Scenery](https://www.getscenery.com/)
 
-### Being paid
+## Being paid
 
-## Quick payement
+### Quick payement
 
 - [cash.me](https://cash.me) (charges: 1.5%)
 
