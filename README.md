@@ -102,9 +102,8 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 ## Others lists
 
-### Free-for-dev
-
 - [A list of software and SaaS, PaaS etc offerings that have free tiers for devs](https://github.com/ripienaar/free-for-dev)
-- [growth.supply free list](http://growth.supply/free/all) (mostly for startuping)
-- [makerbook.net](http://makerbook.net/?ref=producthunt) (mostly for creatives)
-- [launchkit.io](https://launchkit.io/) - (mostly for mobile apps dev)
+- [growth.supply free list](http://growth.supply/free/all), mostly for startuping
+- [makerbook.net](http://makerbook.net/?ref=producthunt) mostly for creatives
+- [launchkit.io](https://launchkit.io/), mostly for mobile apps dev
+- [startupstash.com](http://startupstash.com/), curated directory of resources & tools to help you build your Startup
