@@ -24,7 +24,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 - [webflow.com](https://webflow.com)
 
 ## The User Interface
- 
+
 ### Quick Templating
 
 - [html5up.net](http://html5up.net/) - HTML5 site templates, fully RWD, under Creative Commons license
@@ -32,6 +32,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ### Quick Previewing
 
 - [rawgit.com](https://rawgit.com)
+
+### Colors
+
+- [coolors.co](http://coolors.co/)
 
 ### Free medias
 
@@ -86,6 +90,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [Scenery](https://www.getscenery.com/)
 
+### Press relations
+
+- [submit.co](http://submit.co/) : Submit for public review
+
 ## Being paid
 
 ### Quick payement
@@ -96,4 +104,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 ### Free-for-dev
 
-- [A list of software and SaaS, PaaS etc offerings that have free tiers for devs](https://github.com/ripienaar/free-for-dev) 
+- [A list of software and SaaS, PaaS etc offerings that have free tiers for devs](https://github.com/ripienaar/free-for-dev)
+- [growth.supply free list](http://growth.supply/free/all) (mostly for startuping)
+- [makerbook.net](http://makerbook.net/?ref=producthunt) (mostly for creatives)
+- [launchkit.io](https://launchkit.io/) - (mostly for mobile apps dev)
