@@ -111,3 +111,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 - [makerbook.net](http://makerbook.net/?ref=producthunt) mostly for creatives
 - [launchkit.io](https://launchkit.io/), mostly for mobile apps dev
 - [startupstash.com](http://startupstash.com/), curated directory of resources & tools to help you build your Startup
+
+## Set up a startup
+
+- [Documentation légale et open-source pour les startups](http://www.jurismatic.com/)
