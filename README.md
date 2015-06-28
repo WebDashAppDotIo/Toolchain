@@ -43,6 +43,11 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 - [images](http://www.pexels.com/)
 - [images] (http://pixabay.com)
 
+
+### Images
+
+[Medium's Image zoom effect](https://github.com/fat/zoom.js)
+
 ### Science of Favicons
 
 - [realfavicongenerator.net](http://realfavicongenerator.net)
