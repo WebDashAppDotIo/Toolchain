@@ -94,6 +94,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [Scenery](https://www.getscenery.com/)
 
+### App launch guide
+
+- [App launch guide](http://www.applaunchguide.com/)
+
 ### Press relations
 
 - [submit.co](http://submit.co/) : Submit for public review
