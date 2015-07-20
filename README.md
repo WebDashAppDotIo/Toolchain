@@ -28,6 +28,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ### Quick Templating
 
 - [html5up.net](http://html5up.net/) - HTML5 site templates, fully RWD, under Creative Commons license
+- [templategarden.com](http://www.templategarden.com/category/all/)
 
 ### Quick Previewing
 
@@ -37,22 +38,28 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [coolors.co](http://coolors.co/)
 
-### Free medias
+### Free videos
 
 - [videos](https://videos.pexels.com) (CC-0)
-- [images](http://www.pexels.com/)
-- [images] (http://pixabay.com)
-
 
 ### Images
 
-[Medium's Image zoom effect](https://github.com/fat/zoom.js)
+- [Medium's Image zoom effect](https://github.com/fat/zoom.js)
 
 ### Science of Favicons
 
 - [realfavicongenerator.net](http://realfavicongenerator.net)
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 - [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need?](https://css-tricks.com/favicon-quiz/)
+
+### Free images
+
+- [pexels.com](http://www.pexels.com/)
+- [pixabay.com] (http://pixabay.com)
+
+### Free icons
+
+- [flaticon][(http://www.flaticon.com/)
 
 ## Dev'looping
 
