@@ -96,6 +96,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
 
+## Deploying
+
+- [AWS Tips I Wish I'd Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
+
 ## Monitoring
 
 - [bigpanda.io/monitoringscape](https://www.bigpanda.io/monitoringscape/)
