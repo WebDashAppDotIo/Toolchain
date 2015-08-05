@@ -96,6 +96,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
 
+## Monitoring
+
+- [bigpanda.io/monitoringscape](https://www.bigpanda.io/monitoringscape/)
+
 ## Demo time
 
 ### Mobile testing
