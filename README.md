@@ -38,6 +38,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [coolors.co](http://coolors.co/)
 
+### Free sounds
+
+- [royalty free music](http://www.purple-planet.com/)
+
 ### Free videos
 
 - [videos](https://videos.pexels.com) (CC-0)
