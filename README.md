@@ -111,6 +111,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ## Monitoring
 
 - [bigpanda.io/monitoringscape](https://www.bigpanda.io/monitoringscape/)
+- [goaccess.io](http://goaccess.io) - (Apache/Nginx,...) Log Analyzer
 
 ## Demo time
 
