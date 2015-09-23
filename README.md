@@ -85,11 +85,19 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 - [Pusher.com](https://pusher.com) server-side messages pushing to subscribing web clients
 - [Postman](https://www.getpostman.com/) Build, test & document your APIs
 
+### 3rd services integration
+
+- [Zapier](https://zapier.com/): Connect the apps you use (Slack, Github, Mailchimp...) & automate tasks
+
 ### Build & Continuous Integration 
 
 - [StyleCI.io](https://styleci.io) - The PHP Coding Style Continuous Integration Service
 
 ## The Data
+
+### Datastores
+
+- [sheetsu.com](http://sheetsu.com/): POST and GET your data to Google Spreadsheet
 
 ### Data manipulations
 
