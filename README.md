@@ -108,6 +108,10 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [PHP Backup Utility](http://phpbu.de)
 
+## CMS
+
+- [WordPress CLI toos](http://www.smashingmagazine.com/2015/09/wordpress-management-with-wp-cli/)
+
 ## Security
 
 - [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
