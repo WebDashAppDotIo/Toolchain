@@ -63,7 +63,8 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ### Free images
 
 - [pexels.com](http://www.pexels.com/)
-- [pixabay.com] (http://pixabay.com)
+- [pixabay.com](http://pixabay.com)
+- [more here](https://forum.pragmaticentrepreneurs.com/t/moteur-de-recherche-dimages-pour-des-presentations/2098)
 
 ### Free icons
 
