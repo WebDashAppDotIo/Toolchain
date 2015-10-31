@@ -142,6 +142,11 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 
 - [App launch guide](http://www.applaunchguide.com/)
 
+
+### Email it
+
+- [Marketing email guide](https://www.sendwithus.com/resources/guide)
+
 ### Press relations
 
 - [submit.co](http://submit.co/) : Submit for public review
