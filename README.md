@@ -49,6 +49,7 @@ Toolchain, builders, APIs, generators, 3rd-party services, etc.
 ### Free videos
 
 - [videos](https://videos.pexels.com) (CC-0)
+- [covers](http://www.coverr.co/) (publicdomain)
 
 ### Images
 
